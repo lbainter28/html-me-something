@@ -1,0 +1,118 @@
+body {
+    background-color: #ff9c7b;
+    font-size: 16px;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+header,
+main,
+footer {
+    background-color: #f0e5e5;
+    padding: 0.1em 0;
+}
+
+header {
+    font-size: 20px;
+}
+
+header h1 {
+    text-align: center;
+}
+
+title {
+    font-family: Cambria, Georgia, 'Times New Roman', serif;
+}
+
+nav ul {
+	text-align: center;
+	padding: 10px;
+}
+
+nav ul li {
+	display: inline-block;
+	margin-right: 2em;
+	font-size: 1em;
+}
+
+table {
+    border-collapse: collapse;
+    width: 25%;
+    margin-left: 37.5%;
+    margin-right: 37.5%;
+    font-size: 16px;
+}
+
+table, th, td {
+   border: 2px solid black;
+}
+
+th, td {
+    text-align: center;
+    padding: 5px;
+}
+
+.location {
+    font-family: Palatino Linotype, Garamond, serif;
+    font-style: italic;
+    font-weight: bold;
+}
+
+table caption {
+    font-size: 18px;
+}
+
+th {
+    height: 30px;
+    background-color: #fb774b;
+}
+
+tr:nth-child(even) {
+    background-color: #e3bd8e;
+}
+
+section {
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 40px;
+}
+
+section h2 {
+    font-size: 25px;
+}
+
+#location-title {
+    font-family: Palatino Linotype, Garamond, serif;
+    font-style: italic;
+    font-weight: bold;
+    margin-bottom: 0.25em;
+}
+
+p {
+    font-size: 16px;
+}
+
+#description {
+    margin-top:0em;
+}
+
+img {
+    width: 50%;
+    height: 300px;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+figcaption {
+    font-style: italic;
+    text-align: center;
+    font-size: 16px;
+}
+
+footer {
+    text-align: center;
+    padding: 1em;
+}
